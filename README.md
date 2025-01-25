@@ -1,8 +1,8 @@
-### Stripe api customer billing address update
+# Stripe api customer billing address update
 
-# Fetches all the customers and updates their billing details based on the shipping address uisng stripe api
+## Fetches all the customers and updates their billing details based on the shipping address uisng stripe api
 
-## Run the project
+### Run the project
 
 ```bash
 git clone https://github.com/mdfurkanul/stripe-api-customer-billing-address-update.git YOUR-PROECT-NAME
@@ -11,9 +11,9 @@ cd YOUR-PROECT-NAME
 npm install
 ```
 
-## Rename the .env example file to .env
+### Rename the .env example file to .env
 
-# Replace with your stripe secret key (https://docs.stripe.com/api/)
+### Replace with your stripe secret key. Get more details => (https://docs.stripe.com/api/)
 
 ```bash
 npm start
