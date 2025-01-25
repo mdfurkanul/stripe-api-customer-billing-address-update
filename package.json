@@ -1,0 +1,16 @@
+{
+  "name": "stripe",
+  "version": "1.0.0",
+  "description": "stripe customer billing address update from shipping addresss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "MD Furkanul Islam",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "stripe": "^17.5.0"
+  }
+}
